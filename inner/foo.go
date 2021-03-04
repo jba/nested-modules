@@ -1,0 +1,4 @@
+package inner
+
+func F() {
+}
